@@ -1,0 +1,32 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.question {
+  font-weight: 600;
+}
+
+.answer {
+  cursor: pointer;
+}
+
+.answer:hover {
+  color: gray;
+}
+
+.fa {
+  font-size: 13px;
+}
+
+.toggle {
+  display: none;
+}
+
+.selectedRight {
+  color: green;
+}
+
+.selectedWrong {
+  color: red;
+}
+/*# sourceMappingURL=style.css.map */
